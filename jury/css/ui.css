@@ -1,0 +1,76 @@
+#intro_login{
+cursor:pointer;
+position: absolute;
+top:17%;
+left: 39%;
+text-align: center;
+font-weight: bold;
+font-size: 18px;
+color:#FFF;
+vertical-align: center;
+}
+#left_intro{
+padding-right: 15px;
+border-right: 1px solid #666;
+}
+#right_intro{
+padding-left: 15px;
+
+}
+#show_login, #signup_teacher,#signup_student{
+	display: none;
+position: absolute;
+top:17%;
+left: 36%;
+font-weight: bold;
+font-size: 14px;
+color:#FFF;
+
+}
+
+.hid{
+	display: none;
+}
+#choose_intro{
+cursor:pointer;
+position: absolute;
+top:17%;
+left: 39%;
+text-align: center;
+font-weight: bold;
+font-sizee: 18px;
+color:#FFF;
+vertical-align: center;
+}
+#left_choose{
+padding-right: 15px;
+border-right: 1px solid #666;
+}
+#right_choose{
+padding-left: 15px;
+}
+.maintable1{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.maintable1 th, .maintable1 td{
+border:1px solid #666;
+margin:10px;
+padding: 5px;
+font-weight: 700;
+border-collapse: collapse;
+color:#ccc;
+text-align: center;
+}
+
+.std_table, .std_table td{
+	
+	padding: 7px;
+font-weight: bold;
+font-size: 14px;
+color:#FFF;
+}
+
+.problems_td{
+	cursor: pointer;
+}

@@ -1,0 +1,52 @@
+#intro_login{
+cursor:pointer;
+position: absolute;
+top:17%;
+left: 39%;
+text-align: center;
+font-weight: bold;
+font-size: 18px;
+color:#FFF;
+vertical-align: center;
+}
+#left_intro{
+padding-right: 15px;
+border-right: 1px solid #666;
+}
+#right_intro{
+padding-left: 15px;
+
+}
+#show_login, #signup_teacher,#signup_student{
+	display: none;
+position: absolute;
+top:17%;
+left: 36%;
+font-weight: bold;
+font-size: 14px;
+color:#FFF;
+
+}
+
+.hid{
+	display: none;
+}
+#choose_intro{
+cursor:pointer;
+position: absolute;
+top:17%;
+left: 39%;
+text-align: center;
+font-weight: bold;
+font-size: 18px;
+color:#FFF;
+vertical-align: center;
+}
+#left_choose{
+padding-right: 15px;
+border-right: 1px solid #666;
+}
+#right_choose{
+padding-left: 15px;
+
+}
